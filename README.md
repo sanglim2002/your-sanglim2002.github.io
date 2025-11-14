@@ -13,7 +13,7 @@ Hello! I am a data analyst with a background in higher mathematics, currently co
 
 Here are some projects I've completed that showcase my analytical skills.
 
-### 1. Google Analytics Capstone Project: [Your Project Title]
-* **Description:** A short, 2-3 sentence description of the project. What was the **business task**? What tools did you use?
-* **View the Project:** [Link to Case Study 1]
+### 1. Google Analytics Capstone Project: [Yankees 2025-2026 Offseason Analysis]
+* **Description:** This case study by Samuel Anglim is a "Track B" capstone project for the Google Professional Data Analytics certificate. It details a data-driven analysis of the New York Yankees' 2025 season to identify key statistical inefficiencies by benchmarking performance against a 10-year advanced statistical model.
+* **View the Project:** [https://github.com/sanglim2002/Yankees-2025-2026-Offseason-Analysis]
 
